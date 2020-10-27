@@ -1,5 +1,5 @@
 # MSBD-5001-Kaggle
-5001 individual project  
+5001 individual project  (https://www.kaggle.com/c/msbd5001-fall2019)
 Language : python3.7  
 Package:numpy pandas datetime xgboost lightgbm sklearn  
 For each submission, run as follow: Feature engineering.py   Model.py  Prediction.py  
